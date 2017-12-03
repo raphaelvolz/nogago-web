@@ -1,1 +1,2 @@
 # nogago-web
+This repository contains the (future) Web site and blog for nogago.com, based on jekyll. Currently under development / migration from the current self-developed / Wordpress-based versions found at (nogago.com)[https://www.nogago.com/] and (blog.nogago.com)[http://blog.nogago.com/].
